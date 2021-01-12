@@ -1,0 +1,20 @@
+{
+  "name": "1st-practice-color-project",
+  "version": "1.0.0",
+  "description": "Use of external tools, in this case, colors.js from npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "kodemia",
+    "10thGeneration",
+    "color.js",
+    "1st_practice"
+  ],
+  "author": "grja04",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

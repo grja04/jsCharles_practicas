@@ -1,0 +1,17 @@
+{
+  "name": "proceso_inicio_kodemia",
+  "version": "1.0.0",
+  "description": "All the process that a person need to do in order to apply to Kodemia",
+  "main": "index.js",
+  "scripts": {
+    "kodemia": "node kodemia.js"
+  },
+  "keywords": [
+    "10thGeneration",
+    "process",
+    "apply",
+    "kodemia"
+  ],
+  "author": "grja04",
+  "license": "ISC"
+}

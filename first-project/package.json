@@ -1,0 +1,24 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "This is my first node project",
+  "main": "index.js",
+  "scripts": {
+    "iniciar": "echo 'hola desde script'; echo 'soy otro echo xdXD' ",
+    "charles": "echo 'hola charles' ",
+    "start": "node index.js",
+    "test": "echo 'esto es un test'"
+  },
+  "keywords": [
+    "kodemia",
+    "decima",
+    "clase",
+    "introduccion-node"
+  ],
+  "author": "grja04",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "moment": "^2.29.1"
+  }
+}

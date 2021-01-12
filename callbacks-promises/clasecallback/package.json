@@ -1,0 +1,17 @@
+{
+  "name": "callbacks-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node callback.js"
+  },
+  "keywords": [
+  "callbacks",
+  "kodemia",
+  "decima",
+  "promises"
+  ],
+  "author": "grja04",
+  "license": "ISC"
+}
